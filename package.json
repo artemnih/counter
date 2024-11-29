@@ -7,6 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
+    "build:gh": "ng build --base-href=/counter/ --configuration production",
     "feed": "ng serve --host 0.0.0.0 --port 4000"
   },
   "private": true,
