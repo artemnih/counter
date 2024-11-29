@@ -1,0 +1,129 @@
+{
+  "configVersion": 1,
+  "timestamp": 1732911688449,
+  "index": "/counter/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/counter/favicon.ico",
+        "/counter/index.html",
+        "/counter/main-UT4BV7MN.js",
+        "/counter/manifest.webmanifest",
+        "/counter/polyfills-FFHMD2TL.js",
+        "/counter/styles-D53626ZZ.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/counter/apple-touch-icon.png",
+        "/counter/icons/android/android-launchericon-144-144.png",
+        "/counter/icons/android/android-launchericon-192-192.png",
+        "/counter/icons/android/android-launchericon-48-48.png",
+        "/counter/icons/android/android-launchericon-512-512.png",
+        "/counter/icons/android/android-launchericon-72-72.png",
+        "/counter/icons/android/android-launchericon-96-96.png",
+        "/counter/icons/ios/100.png",
+        "/counter/icons/ios/1024.png",
+        "/counter/icons/ios/114.png",
+        "/counter/icons/ios/120.png",
+        "/counter/icons/ios/128.png",
+        "/counter/icons/ios/144.png",
+        "/counter/icons/ios/152.png",
+        "/counter/icons/ios/16.png",
+        "/counter/icons/ios/167.png",
+        "/counter/icons/ios/180.png",
+        "/counter/icons/ios/192.png",
+        "/counter/icons/ios/20.png",
+        "/counter/icons/ios/256.png",
+        "/counter/icons/ios/29.png",
+        "/counter/icons/ios/32.png",
+        "/counter/icons/ios/40.png",
+        "/counter/icons/ios/50.png",
+        "/counter/icons/ios/512.png",
+        "/counter/icons/ios/57.png",
+        "/counter/icons/ios/58.png",
+        "/counter/icons/ios/60.png",
+        "/counter/icons/ios/64.png",
+        "/counter/icons/ios/72.png",
+        "/counter/icons/ios/76.png",
+        "/counter/icons/ios/80.png",
+        "/counter/icons/ios/87.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/counter/apple-touch-icon.png": "d78f54b373179d8c990cde0d05ddbe92b7c418d8",
+    "/counter/favicon.ico": "1c63d86da324068b67282c6730be1f9c3954a438",
+    "/counter/icons/android/android-launchericon-144-144.png": "c50cc52e1c3db7a83445a70ba69f2675c53511cb",
+    "/counter/icons/android/android-launchericon-192-192.png": "85c204a0965923c63103f3b194c42aa043aeb14c",
+    "/counter/icons/android/android-launchericon-48-48.png": "018e410bfafafc0daa20093ab6d90d669fb75e57",
+    "/counter/icons/android/android-launchericon-512-512.png": "e0f336211461a3fa9084e55c2bdf931dbab61561",
+    "/counter/icons/android/android-launchericon-72-72.png": "739e806f68c2884d62982fb713c0745b145f1354",
+    "/counter/icons/android/android-launchericon-96-96.png": "ab29ff008b9da5850f6e43e454424d122261ae8f",
+    "/counter/icons/ios/100.png": "0a9dfbcf0f21fd7a7cde2dd5090eed8c17b46f4d",
+    "/counter/icons/ios/1024.png": "0f82ce5056e136d347a5a2f87aca613c527b8f22",
+    "/counter/icons/ios/114.png": "36a6285fee07828455cd38bcfeab7bce2fb803af",
+    "/counter/icons/ios/120.png": "c5327264abac4059949ad8fa20e3d3931f6f176f",
+    "/counter/icons/ios/128.png": "22e1054b29476e45583763c56fc619fff45739f6",
+    "/counter/icons/ios/144.png": "c50cc52e1c3db7a83445a70ba69f2675c53511cb",
+    "/counter/icons/ios/152.png": "0c6b31ccad7033b4abca601d06ca1edb4ce49b7a",
+    "/counter/icons/ios/16.png": "518d5744e6c8b8205abad33678a96ee35b2f82a6",
+    "/counter/icons/ios/167.png": "e53e548c2cd683f651da7818022108f966a30812",
+    "/counter/icons/ios/180.png": "96ca68cb3def567741460be53a3ea1ca17c03366",
+    "/counter/icons/ios/192.png": "85c204a0965923c63103f3b194c42aa043aeb14c",
+    "/counter/icons/ios/20.png": "06d0744b2d53bd150b7d509245deb2a4919b816c",
+    "/counter/icons/ios/256.png": "82be5519c01f65baa6529776008c9667bf405a9d",
+    "/counter/icons/ios/29.png": "9c239ee5d841f1ada4b1222b0b780b3261fdff6f",
+    "/counter/icons/ios/32.png": "3539d1a4b8908cb9c47b3d5d85bea98f3b8217f2",
+    "/counter/icons/ios/40.png": "a0394eb993b0e71dd9b064016a95e79f428c806b",
+    "/counter/icons/ios/50.png": "70ee87622c4d7dde83bd8da14ca92a791359f6fb",
+    "/counter/icons/ios/512.png": "e0f336211461a3fa9084e55c2bdf931dbab61561",
+    "/counter/icons/ios/57.png": "569a258e3d5bbe1b2126d0dc9d9bcaac6e4032d5",
+    "/counter/icons/ios/58.png": "b0e54bc327bcc1ff5747a9a257d1ced7b17e9b6d",
+    "/counter/icons/ios/60.png": "e83142de604a454e6bbb62b3044fec65c5977b8a",
+    "/counter/icons/ios/64.png": "c10c1c0c2f5c30b3d792853516b55d62dbb7f708",
+    "/counter/icons/ios/72.png": "739e806f68c2884d62982fb713c0745b145f1354",
+    "/counter/icons/ios/76.png": "5cfe162509b32322a49fb754606c139c9fa4805f",
+    "/counter/icons/ios/80.png": "26537a2c4915aecba8b007563d0a62f104adfdb3",
+    "/counter/icons/ios/87.png": "3dff908f90d8c2a6c023721559890b6483e24b6c",
+    "/counter/index.html": "0882c4107b817b984de5d419f7e2abca6f3a6d13",
+    "/counter/main-UT4BV7MN.js": "a19a141b8557a31d5b5dddc080d4cae988e96081",
+    "/counter/manifest.webmanifest": "3a62d899fca34d78fce632e27f314333f4fec0e8",
+    "/counter/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/counter/styles-D53626ZZ.css": "75b2d18e0dfb1a8b4aabb2fb64e9da11de1d4cd1"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
